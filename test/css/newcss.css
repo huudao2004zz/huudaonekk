@@ -1,0 +1,20 @@
+i {
+    font-size:30px;
+}
+h1 {
+    font-size: 50px;
+    color: deeppink;
+}
+body  {
+    text-align: center;
+    background-image:url("https://wallpapercave.com/wp/wp2686961.png")
+
+}
+p {
+    font-size:30px ;
+    color: chartreuse;
+}
+button {
+    background-color: gold;
+    border-radius: 40%;
+}

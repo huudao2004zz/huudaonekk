@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3fc1d1f-f4f8-43db-957a-0923971b63b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/huudaonekk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/css/newcss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/html/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/html/bai1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/html/test 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/test7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/.idea/begin-20220914T100835Z-001.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/begin/assets/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/begin/assets/img/profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/begin/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/begin-20220914T100835Z-001/begin/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/11.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project10.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project10.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project11.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project12.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project12.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project4.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project5.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project8.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project9.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Project9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/Untitled2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main10.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main12.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main12.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi 10 + less 17 &amp; 18/main9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project14.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project14.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project5.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/Project5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buoi8/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/main1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/main1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 11/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project10.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project10.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project11.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project12.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project12.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project13.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project13.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project14.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project14.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project15.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project15.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project8.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project9.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/Project9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main10.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main11.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/main9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/mainnew.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/mainnew.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/mainnew2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 3/mainnew2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project4.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project5.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/Project7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 5 + lesion 10/main7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project4.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project5.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/Project7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 6 + less12/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 7/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 7/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 7/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 7/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi 7/int a;.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project4.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Project7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Untitled4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/Untitled4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5b.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5b.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/main5c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main12.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main13.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main14.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buổi/buổi 2/section 6/section 6/main9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Makefile.win" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project1.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project1.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project10.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project10.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project11.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project11.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project11.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project2.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project2.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project3.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project3.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project4.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project4.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project5.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project5.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project6.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project6.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project7.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project7.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project7.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project8.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project8.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project9.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project9.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/Project9.layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main10.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main10.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main11.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main11.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main4.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main4.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main5.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main6.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main7.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main8.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main9.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài tập lession 9/main9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EqypscAOJaUBbtvPXWHT8yVWPk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/GitHub/huudaonekk/test/html&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\huudaonekk\test\html" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3fc1d1f-f4f8-43db-957a-0923971b63b2" name="Changes" comment="" />
+      <created>1663337596777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663337596777</updated>
+      <workItem from="1663337598379" duration="4029000" />
+      <workItem from="1663424763052" duration="179000" />
+      <workItem from="1663425563749" duration="5510000" />
+      <workItem from="1663510943180" duration="3879000" />
+      <workItem from="1663568940843" duration="1615000" />
+      <workItem from="1663572940487" duration="6999000" />
+      <workItem from="1663604546279" duration="4233000" />
+      <workItem from="1663682561391" duration="1835000" />
+      <workItem from="1663744992060" duration="524000" />
+      <workItem from="1663745527414" duration="3532000" />
+      <workItem from="1663751000041" duration="693000" />
+      <workItem from="1663751718899" duration="2702000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
